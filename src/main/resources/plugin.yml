@@ -1,0 +1,10 @@
+name: Tjoin
+main: Color_yr.Tjoin.Tjson
+author: Color_yr
+version: 1.0.0
+commands:
+   Tjoin:
+       description: 插件重读
+       usage: /Tjoin reload
+       permission: Tjoin.admin
+       permission-message: 你没有权限使用这个指令
